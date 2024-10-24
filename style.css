@@ -2,6 +2,10 @@
     background-image: url("./img/image.png");
     height: 80px;
  }
-  .title{
-background-color: aliceblue;
+  :root {
+    --cor-de-fundo: #ba1caa;
+    --cor-principal: #19d3e4;
+    --cor-segundaria: #0f068b;
+    --cor-destaque: #0e6109;
+    --cor-de-texto: #000000;
   }
