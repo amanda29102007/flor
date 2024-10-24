@@ -1,4 +1,7 @@
 .cabecalho{
     background-image: url("./img/image.png");
     height: 40px;
-}
+ }
+  .title{
+background-color: aliceblue;
+  }
